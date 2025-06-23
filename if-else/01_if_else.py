@@ -5,3 +5,4 @@ if age >= 20:
 else:
     print("ไม่บรรลุ")
     
+    

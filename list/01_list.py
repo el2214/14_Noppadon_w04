@@ -12,3 +12,4 @@ add_list =("ซื้อของ","ขายของ","นอน")
 todo_list.append(add_list)
 
 print(todo_list)
+

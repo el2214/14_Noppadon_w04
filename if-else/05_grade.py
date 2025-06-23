@@ -25,3 +25,4 @@ else:
 print(f"คะแนน : {score}")
 print(f"ได้เกรด : {grade}")
 print(f"ความเห็น : {comment}")
+
