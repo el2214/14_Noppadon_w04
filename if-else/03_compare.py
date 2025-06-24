@@ -15,5 +15,4 @@ if find_fruits in fruits:
     print(f"มี {find_fruits} อยู่ในรายการ")
 else:
     print(f"ไมมี{find_fruits} ในรายการ")
-    
-    
+     

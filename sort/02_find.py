@@ -4,4 +4,3 @@ if 52 in number :
     position = number.index(52)
     print(position)
     
-    
